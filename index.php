@@ -82,8 +82,8 @@
 	<label>
 		<strong>Płeć:</strong>
 		<br>
-		<input type="radio" name="plec" value="1">Kobieta<br>		<!--  -->
-		<input type="radio" name="plec" value="2">Mężczyzna
+		<input type="radio" name="plec" value="Kobieta">Kobieta<br>		<!--  -->
+		<input type="radio" name="plec" value="Mężczyzna">Mężczyzna
 	</label>
 	</p>
 		
